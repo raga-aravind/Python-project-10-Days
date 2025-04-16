@@ -1,0 +1,3 @@
+Loops in Python allow you to execute a block of code multiple times based on certain conditions.
+Python provides two main types of loops: for loops and while loops.
+in loop numbers start from 0
